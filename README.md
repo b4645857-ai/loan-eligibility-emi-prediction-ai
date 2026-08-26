@@ -714,13 +714,16 @@ random_state = 42
 
 # Author
 
-**MOHIT SINGH RAJPUT — AI/ML Engineer**
+**Vishal B— AI and Machine learning Enthusiast**
+[![LinkedIn]\([https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)\](https://www.linkedin.com/in/vishal-b-7956a037b/](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square\&logo=linkedin\&logoColor=white\)]\(https://www.linkedin.com/in/vishal-b-7956a037b/))
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitsingh1307)
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/Mohit-1307)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/mohitsinghrajput1307)
-[![LeetCode](https://img.shields.io/badge/LeetCode-181717?style=flat-square&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/MOHIT_SINGH_RAJPUT/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohitsinghrajput1307@gmail.com)
+[![GitHub]\([https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)\](https://github.com/b4645857-ai](https://img.shields.io/badge/GitHub-121011?style=flat-square\&logo=github\&logoColor=white\)]\(https://github.com/b4645857-ai))
+
+[![Kaggle]\([https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)\](https://www.kaggle.com/bvishal6767](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square\&logo=kaggle\&logoColor=white\)]\(https://www.kaggle.com/bvishal6767))
+
+[![LeetCode]\([https://img.shields.io/badge/LeetCode-181717?style=flat-square&logo=leetcode&logoColor=FFA116)\](https://leetcode.com/u/xd4E9faDdv/](https://img.shields.io/badge/LeetCode-181717?style=flat-square\&logo=leetcode\&logoColor=FFA116\)]\(https://leetcode.com/u/xd4E9faDdv/))
+
+[![Email]\([https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)\](mailto:b4645857@gmail.com](https://img.shields.io/badge/Email-D14836?style=flat-square\&logo=gmail\&logoColor=white\)]\(mailto:b4645857@gmail.com))
 
 ---
 

@@ -714,16 +714,17 @@ random_state = 42
 
 # Author
 
-**Vishal B— AI and Machine learning Enthusiast**
-[![LinkedIn]\([https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)\](https://www.linkedin.com/in/vishal-b-7956a037b/](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square\&logo=linkedin\&logoColor=white\)]\(https://www.linkedin.com/in/vishal-b-7956a037b/))
+**Vishal B — B.Sc Computer Science Student | AI/ML Enthusiast**
 
-[![GitHub]\([https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)\](https://github.com/b4645857-ai](https://img.shields.io/badge/GitHub-121011?style=flat-square\&logo=github\&logoColor=white\)]\(https://github.com/b4645857-ai))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-b-7956a037b/)
 
-[![Kaggle]\([https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)\](https://www.kaggle.com/bvishal6767](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square\&logo=kaggle\&logoColor=white\)]\(https://www.kaggle.com/bvishal6767))
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/b4645857-ai)
 
-[![LeetCode]\([https://img.shields.io/badge/LeetCode-181717?style=flat-square&logo=leetcode&logoColor=FFA116)\](https://leetcode.com/u/xd4E9faDdv/](https://img.shields.io/badge/LeetCode-181717?style=flat-square\&logo=leetcode\&logoColor=FFA116\)]\(https://leetcode.com/u/xd4E9faDdv/))
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/bvishal6767)
 
-[![Email]\([https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)\](mailto:b4645857@gmail.com](https://img.shields.io/badge/Email-D14836?style=flat-square\&logo=gmail\&logoColor=white\)]\(mailto:b4645857@gmail.com))
+[![LeetCode](https://img.shields.io/badge/LeetCode-181717?style=flat-square&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/xd4E9faDdv/)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:b4645857@gmail.com)
 
 ---
 
